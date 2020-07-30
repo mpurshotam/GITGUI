@@ -1,2 +1,0 @@
-<Head><Hello Script!></Head>
-<body><What is your Name!></body>

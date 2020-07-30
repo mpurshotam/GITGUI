@@ -1,2 +1,6 @@
 Hello Cheese!
 How are you?
+I am fine.
+How is it going?
+Good
+
